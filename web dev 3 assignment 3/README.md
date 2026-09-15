@@ -1,10 +1,6 @@
 # Lab Assignment 1 – Smart Utility Toolkit
 
-[![Node.js](https://img.shields.io/badge/Node.js-v18%2B-3c096c?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Author](https://img.shields.io/badge/Author-Anveshna-9d4edd?style=flat-square&logo=github&logoColor=white)](https://github.com/anveshna25)
-[![Repository](https://img.shields.io/badge/GitHub-webdev3__assign-7b2cbf?style=flat-square&logo=github&logoColor=white)](https://github.com/anveshna25/webdev3_assign)
-[![Dependencies](https://img.shields.io/badge/Dependencies-Zero-0d0221?style=flat-square)](#technology-stack)
-[![License](https://img.shields.io/badge/License-ISC-e0aaff?style=flat-square&labelColor=10002b)](LICENSE)
+
 
 A hands-on Node.js backend toolkit developed for **Web Dev III (Node.js & Express Backend) Lab Assignment 1**. This project demonstrates fundamental backend development concepts using **Node.js Core Modules exclusively** (`process`, `http`, `fs`, `crypto`, `path`), featuring command-line interaction, custom module export/import reusability, basic HTTP server routing, CRUD file operations, secure random generation, and execution flow analysis.
 
