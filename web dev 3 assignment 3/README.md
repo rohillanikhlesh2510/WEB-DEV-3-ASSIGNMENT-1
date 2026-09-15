@@ -115,11 +115,4 @@ node dice.js 5
 
 ---
 
-## 👩‍💻 Author & Connect
 
-- **Author**: Anveshna
-- **GitHub**: [@anveshna25](https://github.com/anveshna25)
-- **Repository**: [anveshna25/webdev3_assign](https://github.com/anveshna25/webdev3_assign)
-- **Email**: [anveshna2025@gmail.com](mailto:anveshna2025@gmail.com)
-- **LinkedIn**: [Anveshna](https://www.linkedin.com/in/anveshnax/)
-- **X / Twitter**: [@anveshnaX](https://x.com/anveshnaX)
