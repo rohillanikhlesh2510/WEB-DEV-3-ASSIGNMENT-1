@@ -1,0 +1,15 @@
+# Node dependencies (if any local tooling is added)
+node_modules/
+
+# Environment files
+.env
+.env.local
+
+# Generated files & logs
+*.log
+dice_history.txt
+demo_sample.txt
+
+# OS metadata
+.DS_Store
+Thumbs.db
