@@ -60,7 +60,7 @@ Built using Node.js core `http` module listening on port `3000` (or configured `
 | Route | Response Description | HTTP Status |
 | :--- | :--- | :--- |
 | `GET /` | Welcome Home Page | `200 OK` |
-| `GET /about` | About Anveshna & Toolkit Overview | `200 OK` |
+| `GET /about` | About & Toolkit Overview | `200 OK` |
 | `GET /contact` | Developer Contact Details | `200 OK` |
 | `GET /*` | Custom 404 Error Page | `404 Not Found` |
 
