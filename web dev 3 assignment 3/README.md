@@ -1,6 +1,10 @@
 # Lab Assignment 1 – Smart Utility Toolkit
 
-
+[![Node.js](https://img.shields.io/badge/Node.js-v18%2B-3c096c?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Author](https://img.shields.io/badge/Author-Nikhlesh%20Rohilla-9d4edd?style=flat-square&logo=github&logoColor=white)](https://github.com/rohillanikhlesh2510)
+[![Repository](https://img.shields.io/badge/GitHub-WEB--DEV--3--ASSIGNMENT--1-7b2cbf?style=flat-square&logo=github&logoColor=white)](https://github.com/rohillanikhlesh2510/WEB-DEV-3-ASSIGNMENT-1)
+[![Dependencies](https://img.shields.io/badge/Dependencies-Zero-0d0221?style=flat-square)](#technology-stack)
+[![License](https://img.shields.io/badge/License-ISC-e0aaff?style=flat-square&labelColor=10002b)](LICENSE)
 
 A hands-on Node.js backend toolkit developed for **Web Dev III (Node.js & Express Backend) Lab Assignment 1**. This project demonstrates fundamental backend development concepts using **Node.js Core Modules exclusively** (`process`, `http`, `fs`, `crypto`, `path`), featuring command-line interaction, custom module export/import reusability, basic HTTP server routing, CRUD file operations, secure random generation, and execution flow analysis.
 
@@ -60,7 +64,11 @@ Built using Node.js core `http` module listening on port `3000` (or configured `
 | Route | Response Description | HTTP Status |
 | :--- | :--- | :--- |
 | `GET /` | Welcome Home Page | `200 OK` |
+<<<<<<< HEAD
 | `GET /about` | About & Toolkit Overview | `200 OK` |
+=======
+| `GET /about` | About Nikhlesh & Toolkit Overview | `200 OK` |
+>>>>>>> 41b5e65 (chore: update author, repository links, and contact details to Nikhlesh Rohilla)
 | `GET /contact` | Developer Contact Details | `200 OK` |
 | `GET /*` | Custom 404 Error Page | `404 Not Found` |
 
@@ -111,4 +119,9 @@ node dice.js 5
 
 ---
 
+## 👨‍💻 Author & Connect
 
+- **Author**: Nikhlesh Rohilla
+- **GitHub**: [@rohillanikhlesh2510](https://github.com/rohillanikhlesh2510)
+- **Repository**: [rohillanikhlesh2510/WEB-DEV-3-ASSIGNMENT-1](https://github.com/rohillanikhlesh2510/WEB-DEV-3-ASSIGNMENT-1)
+- **Email**: [bharatgram25@gmail.com](mailto:bharatgram25@gmail.com)

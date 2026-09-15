@@ -3,9 +3,9 @@
 **Course:** Web Dev III (Node.js & Express Backend)  
 **Unit Covered:** Unit–1  
 **Assignment:** Lab Assignment 1 – Smart Utility Toolkit  
-**Author:** Anveshna ([@anveshna25](https://github.com/anveshna25))  
-**Email:** `anveshna2025@gmail.com`  
-**Repository:** [`anveshna25/webdev3_assign`](https://github.com/anveshna25/webdev3_assign)  
+**Author:** Nikhlesh Rohilla ([@rohillanikhlesh2510](https://github.com/rohillanikhlesh2510))  
+**Email:** `bharatgram25@gmail.com`  
+**Repository:** [`rohillanikhlesh2510/WEB-DEV-3-ASSIGNMENT-1`](https://github.com/rohillanikhlesh2510/WEB-DEV-3-ASSIGNMENT-1)  
 
 ---
 

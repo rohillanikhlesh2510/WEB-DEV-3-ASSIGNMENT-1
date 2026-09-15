@@ -36,19 +36,19 @@ const server = http.createServer((req, res) => {
         res.writeHead(200, { "content-type": "text/html; charset=utf-8" });
         res.end(`
             <h1 style='color:green'>About Page</h1>
-            <p> Hola, Myself Anveshna.
+            <p> Hola, Myself Nikhlesh Rohilla.
             </br> I am currently doing B.Tech CSE Core from 
             </br> 
             K.R. Mangalam University,
             Gurugram, Haryana 
             </br>
-            GitHub: <a href="https://github.com/anveshna25" target="_blank">anveshna25</a>
+            GitHub: <a href="https://github.com/rohillanikhlesh2510" target="_blank">rohillanikhlesh2510</a>
             </p>
             ${nav}
         `);
         console.log("About Page");
         console.log(
-            "Hola, Myself Anveshna. I am currently doing B.Tech CSE Core from K.R. Mangalam University, Gurugram, Haryana ",
+            "Hola, Myself Nikhlesh Rohilla. I am currently doing B.Tech CSE Core from K.R. Mangalam University, Gurugram, Haryana ",
         );
 
     } else if (req.url === "/contact") {
@@ -56,13 +56,13 @@ const server = http.createServer((req, res) => {
         res.writeHead(200, { "content-type": "text/html; charset=utf-8" });
         res.end(`
             <h1 style='color:red'>Contact Page</h1>
-            <p> GitHub : https://github.com/anveshna25
-            </br> Email : anveshna2025@gmail.com
+            <p> GitHub : https://github.com/rohillanikhlesh2510
+            </br> Email : bharatgram25@gmail.com
             </p>
             ${nav}
         `);
         console.log("Contact Page");
-        console.log("GitHub : https://github.com/anveshna25 ,Email : anveshna2025@gmail.com");
+        console.log("GitHub : https://github.com/rohillanikhlesh2510 ,Email : bharatgram25@gmail.com");
 
     } else {
         // handling the routes that do not exist with error message
